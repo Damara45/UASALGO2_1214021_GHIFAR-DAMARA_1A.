@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JavaConnection
+comment0.text=\r\n\ Um\ eine\ Verbindung\ mit\ der\ Datenbank\ aufzunehmen\ ist\ diese\ Klasse\ notwendig.\r\n\ http\://www.ralphhenne.de/informatik/kaffeehandel/03DBZugriff.pdf\r\n\ \r\n\ @Martin\ Specker\r\n\ @18.2.2013\r\n
+comment1.params=benutzerH\ passwortH
+comment1.target=JavaConnection(java.lang.String,\ java.lang.String)
+comment1.text=Konstruktor\ stellt\ die\ Daten\ zum\ Verbindungsaufbau\ \ zusammen.
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ erstelleVerbindung()
+comment4.params=
+comment4.target=void\ schliesseVerbindung()
+numComments=5
